@@ -1,5 +1,7 @@
 EXPECTED:
 
+// seems like channel 1 data is off
+
 channel: 1 sample: -0.87630665 correct sample: -0.9177597
 0.9822872 -0.82708055 channel: 0 sample: 0.9822872 correct sample: 0.98228943
 channel: 1 sample: -0.82708055 correct sample: -0.87631285
